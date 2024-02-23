@@ -1,0 +1,1 @@
+{"version":3,"file":"svg-list.d.ts","sourceRoot":"","sources":["../../../../../src/components/svg-icon/scripts/svg-list.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,QAAQ;IACvB,QAAQ,EAAE,MAAM,CAAC;IACjB,SAAS,EAAE,MAAM,EAAE,CAAC;CACrB;AAED,eAAO,MAAM,SAAS,EAAE;IACtB,CAAC,GAAG,EAAE,MAAM,GAAG,QAAQ,CAAC;CA0GzB,CAAC"}

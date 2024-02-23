@@ -1,0 +1,14 @@
+{
+  "name": "@horizon-msft/web-components",
+  "main": "dist/index.js",
+  "module": "dist/esm/index.min.js",
+  "types": "dist/index.d.ts",
+  "version": "0.0.35",
+  "dependencies": {
+    "@floating-ui/dom": "^1.5.3",
+    "@fluentui/tokens": "1.0.0-alpha.9",
+    "@microsoft/fast-element": "^2.0.0-beta.23",
+    "@microsoft/fast-foundation": "^3.0.0-alpha.31",
+    "tabbable": "^6.2.0"
+  }
+}
